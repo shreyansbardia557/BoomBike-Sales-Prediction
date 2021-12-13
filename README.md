@@ -14,15 +14,14 @@ to model the demand for shared bikes with the available independent variables. I
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+-A coefficient value of 0.478564 indicated that a temperature has significant impact on bike rentals
+-A coefficient value of -0.291333 indicated that the light snow and rain deters people from renting out bikes
+-A coefficient value of 0.233911 indicated that a year wise the rental numbers are increasing
+-It is recommended to give utmost importance to these three variables while planning to achieve maximum bike rental booking. 
+-As high temperature and good weather positively impacts bike rentals, it is recommended that bike availability and promotions to be increased during summer months to further increase bike rentals
 
 ## Technologies Used
 - Python.
 - Jupyter Notebook
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+
